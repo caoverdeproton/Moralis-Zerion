@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run this project you will need to install:
+
+>> npm install react react-router-dom moralis react-moralis material-ui/core material-ui/icons material-ui/lab
+
+
 ## Available Scripts
 
 In the project directory, you can run:
