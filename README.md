@@ -1,6 +1,7 @@
 # Moralis-Zerion
 
-This main branch shows the Zerion clone done to mimic Zerion features. Based on Moralis youTube video:
+This main branch shows the Zerion clone done to mimic Zerion features. 
+Based on Moralis youTube video:
 https://www.youtube.com/watch?v=35oNV8Qv7-I
 
 If you want to access to source files, please check master branch
